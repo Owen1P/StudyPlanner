@@ -1,0 +1,5 @@
+C:\Users\owenb\OneDrive\Documents\StudyNotes\StudyPlannerApp\obj\Debug\net9.0\StudyPlannerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\owenb\OneDrive\Documents\StudyNotes\StudyPlannerApp\obj\Debug\net9.0\StudyPlannerApp.AssemblyInfoInputs.cache
+C:\Users\owenb\OneDrive\Documents\StudyNotes\StudyPlannerApp\obj\Debug\net9.0\StudyPlannerApp.AssemblyInfo.cs
+C:\Users\owenb\OneDrive\Documents\StudyNotes\StudyPlannerApp\obj\Debug\net9.0\StudyPlannerApp.csproj.CoreCompileInputs.cache
+C:\Users\owenb\OneDrive\Documents\StudyNotes\StudyPlannerApp\obj\Debug\net9.0\StudyPlannerApp.sourcelink.json

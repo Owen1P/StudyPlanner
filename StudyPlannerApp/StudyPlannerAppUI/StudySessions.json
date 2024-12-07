@@ -1,0 +1,37 @@
+[
+  {
+    "Subject": "Math",
+    "Date": "2024-06-06T00:00:00",
+    "HoursStudied": 2,
+    "Mood": "Happy",
+    "Feelings": "I feel like I should\u0027ve just left this project in the console"
+  },
+  {
+    "Subject": "Math",
+    "Date": "2024-03-13T00:00:00",
+    "HoursStudied": 4,
+    "Mood": "Tired",
+    "Feelings": "I am exhausted."
+  },
+  {
+    "Subject": "Spanish",
+    "Date": "2024-12-05T00:00:00",
+    "HoursStudied": 3,
+    "Mood": "Hungry",
+    "Feelings": "I still have a long way to go. :("
+  },
+  {
+    "Subject": "Spanish",
+    "Date": "2024-12-05T00:00:00",
+    "HoursStudied": 3,
+    "Mood": "Happy",
+    "Feelings": "good"
+  },
+  {
+    "Subject": "Spanish",
+    "Date": "2024-12-06T00:00:00",
+    "HoursStudied": 3,
+    "Mood": "Happy",
+    "Feelings": "good"
+  }
+]
